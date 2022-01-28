@@ -1,0 +1,111 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans+Condensed:ital,wght@0,300;0,700;1,300&display=swap');
+body{
+    font-family: 'Open Sans Condensed', sans-serif;
+    background-image: url(../img/back4.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.head{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 20px;
+}
+.logo{
+    max-width: 120px;
+    max-height: 120px;
+}
+.a-nav{
+    padding-right: 220px;
+}
+.a-nav a{
+    padding-left: 30px;
+    text-decoration: none;
+    color: white;
+    font-weight: 600;
+    font-size: 24px;
+}
+.a-nav a:hover{
+    color: rgb(36, 207, 190);
+    transition-duration: 0.5s;
+}
+.slang{
+    text-align: right;
+    /* max-width: 840px; */
+    padding-top: 20px;
+    justify-content: flex-end;
+}
+.slang-title{
+    font-size: 82px;
+    font-weight: 600;
+    color: white;
+    padding-right: 220px;
+    padding-bottom: 80px;
+}
+.slang-title:hover{
+    color: rgb(36, 207, 190);
+    transition-duration: 0.5s;
+}
+.div-music{
+    max-width: 55%;
+}
+.div-music h2{
+    font-size: 56px;
+    font-weight: 600;
+    padding-bottom: 25px;
+    color: white;
+}
+.div-music p{
+    color: white;
+    font-size: 20px;
+}
+.music{
+    color: white;
+    font-size: 20px;
+}
+.music p{
+    margin-left: 10px;
+}
+.music p:hover{
+    color: rgb(36, 207, 190);
+    transition-duration: 0.5s;
+    cursor: default;
+}
+.audio-item{
+    padding-bottom: 30px;
+}
+footer{
+    color: white;
+}
+.footer{
+    display: flex;
+    justify-content: center;
+    margin-top: 80px;
+    padding-top: 40px;
+}
+.footer h3{
+    padding-left: 65px;
+}
+.social{
+    display: flex;
+    flex-direction: row;
+    margin-left: -100px;
+    padding-top: 15px;
+}
+.social p{
+    padding-left: 100px;
+}
+.social a{
+    text-decoration: none;
+    font-size: 18px;
+    color: white;
+}
+.social a:hover{
+    color: rgb(45, 145, 45);
+    transition-duration: 0.5s;
+}
+.text-footer{
+    text-align: center;
+    font-weight: 500;
+}

@@ -1,0 +1,192 @@
+@media screen and (max-width: 992px){
+    header{
+        justify-content: center;
+    }
+    .head{
+        justify-content: center;
+    }
+    .logo{
+        max-width: 90px;
+        max-height: 90px;
+    }
+    .a-nav a{
+        font-size: 20px;
+    }
+    .slang-title{
+        font-size: 64px;
+        font-weight: 600;
+        padding-right: 180px;
+    }
+    .about-mini{
+        max-width: 70%;
+        margin-left: 150px;
+        text-align: center;
+    }
+    .a-nav a{
+        padding-left: 10px;
+    }
+    .video-main{
+        margin-left: 15px;
+    }
+    .gif-main{
+        max-width: 680px;
+        max-height: 260px;
+        min-width: 680px;
+        min-height: 260px;
+        margin-left: 120px;
+    }
+    .footer h3{
+        padding-left: 0px;
+    }
+    .social{
+        margin-left: -170px;
+    }
+    .footer{
+        margin-left: 70px;
+    }
+    .text-footer{
+        margin-left: 0px;
+    }
+    .history-mini{
+        margin-left: 150px;
+    }
+    .order-phone{
+        padding-left: 75px;
+    }
+    .gallery-photo{
+        flex-direction: column;
+    }
+    .gallery-photo img{
+        max-width: 500px;
+        max-height: 310px;
+        min-width: 500px;
+        min-height: 310px;
+        padding-bottom: 25px;
+        margin-left: 210px;
+    }
+    .map{
+        max-width: 930px;
+        max-height: 400px;
+    }
+}
+@media screen and (max-width: 768px){
+    .a-nav a{
+        font-size: 15px;
+    }
+    .slang-title{
+        font-size: 48px;
+        font-weight: 600;
+        padding-right: 140px;
+    }
+    .a-nav a{
+        padding-left: 5px;
+    }
+    .about-mini h2{
+        font-size: 38px;
+        margin-left: -80px;
+    }
+    .about-mini p{
+        font-size: 16px;
+        margin-left: -80px;
+    }
+    .video-main{
+        margin-left: 10px;
+    }
+    .gif-main{
+        max-width: 500px;
+        max-height: 260px;
+        min-width: 500px;
+        min-height: 260px;
+        margin-left: 90px
+    }
+    .history-mini{
+        margin-left: 105px;
+    }
+    .gallery-photo img{
+        max-width: 500px;
+        max-height: 310px;
+        min-width: 500px;
+        min-height: 310px;
+        padding-bottom: 25px;
+        margin-left: 100px;
+    }
+    .map{
+        max-width: 695px;
+        max-height: 350px;
+    }
+}
+@media screen and (max-width: 576px){
+    .logo{
+        max-width: 68px;
+        max-height: 68px;
+    }
+    .a-nav a{
+        font-size: 12px;
+    }
+    .a-nav{
+        padding-right: 110px;
+    }
+    .slang-title{
+        font-size: 36px;
+        font-weight: 600;
+        padding-right: 110px;
+    }
+    .a-nav a{
+        padding-left: 5px;
+    }
+    .about-mini h2{
+        font-size: 38px;
+        margin-left: -145px;
+    }
+    .about-mini p{
+        font-size: 16px;
+        margin-left: -145px;
+    }
+    .video-main{
+        margin-left: 8px;
+    }
+    .gif-main{
+        max-width: 370px;
+        max-height: 220px;
+        min-width: 370px;
+        min-height: 220px;
+        margin-left: 65px;
+    }
+    .footer{
+        margin-left: 75px;
+    }
+    .text-footer{
+        margin-left: 0px;
+    }
+    .history-mini{
+        margin-left: 0px;
+        max-width: 100%;
+    }
+    .history-mini h2{
+        font-size: 38px;
+    }
+    .history-mini p{
+        font-size: 16px;
+    }
+    .order-phone{
+        margin-left: -120px;
+    }
+    .div-music h2{
+        font-size: 38px;
+    }
+    .div-music p{
+        font-size: 16px;
+    }
+    .gallery-photo img{
+        max-width: 500px;
+        max-height: 310px;
+        min-width: 500px;
+        min-height: 310px;
+        padding-bottom: 25px;
+        margin-left: 10px;
+    }
+    .map{
+        max-width: 515px;
+        max-height: 360px;
+    }
+}
